@@ -1,1 +1,1 @@
-# GenAI_App_QueryWebsite
+# GenAI_App_QueryWebsite_OpenAI_FAISS_Langchain
